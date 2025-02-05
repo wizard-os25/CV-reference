@@ -1,0 +1,59 @@
+{
+    “accountPage”: [
+        {
+            “id”: 1,
+            “section”: “User Notification”,
+            “cell”: {
+                “cellOne”: {
+                    “imageName”: “bell”,
+                    “title”: “User Notification ”,
+                    “subTitle”: null,
+                    “handler”: true
+                }
+            },
+                
+
+            “id”: 2,
+            “section”: “Payment Method”,
+            “cell”: {
+                “cellOne”: {
+                    “imageName”: “creaditcard”,
+                    “title”: “Bank Transfer”,
+                    “subTitle”: “Use bank account”,
+                    “handler”: true
+                },
+                “cellTwo”: {
+                    “imageName”: “creaditcard.circle.fill”,
+                    “title”: “Credit Card”,
+                    “subTitle”: “Coming soon”,
+                    “handler”: true
+                }
+            },
+
+            “id”: 3,
+            “section”: “Management”,
+            “cell”: {
+                “cellOne”: {
+                    “imageName”: “bell.badge.fill”,
+                    “title”: “Home notification”,
+                    “subTitle”: “Montly update”,
+                    “handler”: true
+                },
+                “cellTwo”: {
+                    “imageName”: “pencil.line”,
+                    “title”: “Data Analysis”,
+                    “subTitle”: “Electric, water mostly and more..”,
+                    “handler”: true
+                },
+                “cellThree”: {
+                    “imageName”: “book”,
+                    “title”: “Guide”,
+                    “subTitle”: “Explore to ultimate your packet.”,
+                    “handler”: true
+                },
+            }
+        }
+
+    ]
+    
+}
